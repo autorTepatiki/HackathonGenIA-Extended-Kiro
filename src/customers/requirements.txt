@@ -1,0 +1,4 @@
+# Customer CRUD Lambda Dependencies
+# Python packages required for customer data management
+
+boto3>=1.34.0
