@@ -1,5 +1,6 @@
 # Customer Management MVP
 
+
 > **Important**: This documentation uses placeholder values like `[YOUR_USERNAME]`, `[YOUR_EMAIL]`, `<user-pool-id>`, etc. For actual credential values and setup instructions, see [SETUP_CREDENTIALS.md](SETUP_CREDENTIALS.md).
 
 A serverless customer management API built on AWS, providing secure CRUD operations for customer data through REST API endpoints.
@@ -1075,5 +1076,6 @@ Potential improvements beyond the MVP scope:
 ## License
 
 Copyright (c) 2024 AnyCompany. All rights reserved.
-#   H a c k a t h o n G e n I A - E x t e n d e d - K i r o  
+#   H a c k a t h o n G e n I A - E x t e n d e d - K i r o 
+ 
  
